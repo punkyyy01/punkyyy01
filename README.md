@@ -15,7 +15,7 @@
 
 </div>
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 <table>
 <tr>
@@ -54,7 +54,6 @@ Feed verificado en tiempo real de sismos en Venezuela.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=punkyyy01&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Streak](https://streak-stats.demolab.com/?user=punkyyy01&theme=dark&hide_border=true)
 
 </div>
