@@ -3,7 +3,6 @@
 </div>
 
 <h3 align="center">🍓 frambuesa</h3>
-
 <p align="center"><i>construyo bots, paneles y sitios</i></p>
 
 <div align="center">
@@ -54,6 +53,6 @@ Feed verificado en tiempo real de sismos en Venezuela.
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com/?user=punkyyy01&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=punkyyy01&theme=dark&hide_border=true)
 
 </div>
