@@ -2,7 +2,7 @@
 <img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,java,supabase,vercel,git,github,linux,vscode,discord,bots,cloudflare,figma,notion,sqlite,nginx,threejs&perline=10" />
 </div>
 
-<h3 align="center">🍓 frambuesa</h3>
+<h3 align="center">frambuesa</h3>
 <p align="center"><i>construyo bots, paneles y sitios</i></p>
 
 <div align="center">
