@@ -3,7 +3,6 @@
 </div>
 
 <h3 align="center">frambuesa</h3>
-<p align="center"><i>construyo bots, paneles y sitios</i></p>
 
 <div align="center">
 
